@@ -1,4 +1,4 @@
-public class StudentSubjectInfo {
+public class lab {
     public static void main(String[] args) {
         String surname = "Grebenyuk";           
         String subject = "TRPO"; 
